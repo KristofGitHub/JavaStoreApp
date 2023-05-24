@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JavaStore:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JavaStore_jar</output-path>
+    <root id="archive" name="JavaStore.jar">
+      <element id="module-output" name="JavaStore" />
+    </root>
+  </artifact>
+</component>
